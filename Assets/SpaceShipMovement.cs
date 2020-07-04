@@ -20,7 +20,7 @@ public class SpaceShipMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Head.transform.Translate(Cam.transform.forward * Time.deltaTime * 5f);
+        Head.transform.Translate(Cam.transform.forward * Time.deltaTime * 10f);
         tilt();
     }
 
