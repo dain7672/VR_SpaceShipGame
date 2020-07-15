@@ -752,7 +752,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1510364872509504, guid: f805c7b2f982faf43833878e4f22ae2a, type: 3}
       propertyPath: m_Name
-      value: StarSparrow1
+      value: ship2
       objectReference: {fileID: 0}
     - target: {fileID: 4433942057210488, guid: f805c7b2f982faf43833878e4f22ae2a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -784,7 +784,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4433942057210488, guid: f805c7b2f982faf43833878e4f22ae2a, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4433942057210488, guid: f805c7b2f982faf43833878e4f22ae2a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -987,7 +987,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1570034556958308, guid: dae7a3955bbf76e409d09988296acacb, type: 3}
       propertyPath: m_Name
-      value: StarSparrow2
+      value: ship1
       objectReference: {fileID: 0}
     - target: {fileID: 4944201315585692, guid: dae7a3955bbf76e409d09988296acacb, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1019,7 +1019,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4944201315585692, guid: dae7a3955bbf76e409d09988296acacb, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4944201315585692, guid: dae7a3955bbf76e409d09988296acacb, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
